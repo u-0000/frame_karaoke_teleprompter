@@ -1,6 +1,6 @@
-# Teleprompter for Frame
+# Karaoke Teleprompter for Frame
 
-Simple teleprompter that loads a text file picked from the user's device and sends one line at a time for display on Frame.
+Simple modified teleprompter that loads a LRC file picked from the user's device and sends lines in time with the lyrics for display on Frame.
 
 Next/Previous paging through content is done via a vertical swipe up or down anywhere on the application screen.
 
