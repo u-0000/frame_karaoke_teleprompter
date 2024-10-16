@@ -4,7 +4,7 @@ name: Flutter CI
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: 19 * * * *'
     
 # on: push    # Default will running for every branch.
     
